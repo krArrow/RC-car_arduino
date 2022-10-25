@@ -10,11 +10,11 @@ Hi everyone! This is a remote cum smartphone-controlled Arduino 4WD robot car or
 6)LEDs + resistors 220 Ohm x4<br>
 7)Buzzer<br>
 
+# Smartphone Controller app
+Link for the controller app->[CLick here](https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US)
+
 # Wiring Diagram
 <img src= "rc_car_wiring_diagram.jpg">
-
-# Smartphone Controller app
-<a herf = "https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US">Link for the controller app</a>
 
 # Final car built 
 <img src= "Img/car1.jpeg" height="580px" width="800px">
