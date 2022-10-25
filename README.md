@@ -2,14 +2,15 @@
 Hi everyone! This is a remote cum smartphone-controlled Arduino 4WD robot car or Bluetooth Arduino robot. It can move forward and backward, left and right, change its speed, turn on / off front and back lights and also it can horn.  This is a quite simple design robot you can easily build it.
 
 # Prerequisite
-1)Arduino Uno R3 Board
-2)DC Motor and Wheel x4
-3)Motor Driver L298N x2
-4)Bluetooth module HC-06
-5)Li-ion battery 18650 x2
-6)LEDs + resistors 220 Ohm x4
-7)Buzzer
-
+<br>
+1)Arduino Uno R3 Board<br>
+2)DC Motor and Wheel x4<br>
+3)Motor Driver L298N x2<br>
+4)Bluetooth module HC-06<br>
+5)Li-ion battery 18650 x2<br>
+6)LEDs + resistors 220 Ohm x4<br>
+7)Buzzer<br>
+<br>
 # Wiring Diagram
 <img src= "rc_car_wiring_diagram.jpg">
 
