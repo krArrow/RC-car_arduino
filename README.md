@@ -22,5 +22,5 @@ Hi everyone! This is a remote cum smartphone-controlled Arduino 4WD robot car or
 
 # Video demonstration
 
-  <video src ="Img/video_src.mp4"></video>
-  <video src ="Img/video_src2.mp4"> </video>
+  <img src ="Img/video_src.gif">
+  <img src ="Img/video_src2.gif"> 
