@@ -17,7 +17,7 @@ Hi everyone! This is a remote cum smartphone-controlled Arduino 4WD robot car or
 <a herf = "https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US">Link for the controller app</a>
 
 # Final car built 
-<img src= "Img/car1.jpeg">
+<img src= "Img/car1.jpeg" height="500px" width="800px">
 <img src= "Img/car2.jpg">
 
 # Video demonstration
