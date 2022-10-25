@@ -18,7 +18,7 @@ Hi everyone! This is a remote cum smartphone-controlled Arduino 4WD robot car or
 
 # Final car built 
 <img src= "Img/car1.jpeg" height="580px" width="800px">
-<img src= "Img/car2.jpg">
+<img src= "Img/car2.jpg"  height="580px" width="700px">
 
 # Video demonstration
 
